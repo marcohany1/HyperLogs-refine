@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../json-server"
+		},
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../postgresql-server"
+		}
+	],
+	"settings": {}
+}
